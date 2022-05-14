@@ -1,0 +1,36 @@
+.copy_right_footer {
+    position: fixed;
+    color: azure;
+    width: 100%;
+    line-height: 3;
+    background-color: crimson;
+    bottom: 0;
+    text-align: center;
+}
+
+.note {
+    font-size: 18;
+    color: bisque;
+}
+
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 5px;
+    box-shadow: 5px 5px 5px darkslategrey;
+}
+
+canvas {
+    border: 5px solid darkorchid;
+    border-radius: 29px;
+    box-shadow: 5px 5px 5px crimson;
+}
+
+body {
+    background-color: gray;
+}
+
+video {
+    position: fixed;
+    right: 0;
+}
